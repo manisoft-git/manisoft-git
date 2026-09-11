@@ -7,6 +7,11 @@
 
   <br/><br/>
 
+  <!-- Mani$oft Avatar Emblem -->
+  <a href="https://github.com/manisoft-git">
+    <img src="assets/manisoft-avatar-circle.png" width="130" height="130" style="border-radius: 50%; box-shadow: 0 0 28px rgba(0, 242, 254, 0.45);" alt="Manifest Subeno Emblem" />
+  </a>
+
   <!-- Name & Title -->
   <h1>Manifest Subeno</h1>
 
